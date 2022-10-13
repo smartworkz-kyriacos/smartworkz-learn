@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://smartworkz-kyriacos.github.io/martworkz-learn'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 # Change the default theme to be use when building the site with Hugo
