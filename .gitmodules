@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/smartworkz-kyriacos/smartworkz-learn.git
-	branch = main
+	branch = gh-pages
