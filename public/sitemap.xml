@@ -2,130 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/basics/</loc>
+    <loc>/public/basics/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/pages/</loc>
+    <loc>/public/cont/pages/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/</loc>
+    <loc>/public/cont/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/archetypes/</loc>
+    <loc>/public/cont/archetypes/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/archetypes.fr/</loc>
+    <loc>/public/cont/archetypes.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/basics/requirements/</loc>
+    <loc>/public/basics/requirements/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/markdown/</loc>
+    <loc>/public/cont/markdown/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/</loc>
+    <loc>/public/shortcodes/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/markdown.fr/</loc>
+    <loc>/public/cont/markdown.fr/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/basics/installation/</loc>
+    <loc>/public/basics/installation/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/syntaxhighlight/</loc>
+    <loc>/public/cont/syntaxhighlight/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/basics/configuration/</loc>
+    <loc>/public/basics/configuration/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/menushortcuts/</loc>
+    <loc>/public/cont/menushortcuts/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/menushortcuts.fr/</loc>
+    <loc>/public/cont/menushortcuts.fr/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/basics/style-customization/</loc>
+    <loc>/public/basics/style-customization/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/icons/</loc>
+    <loc>/public/cont/icons/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/i18n/</loc>
+    <loc>/public/cont/i18n/</loc>
     <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/tags/</loc>
+    <loc>/public/cont/tags/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/cont/tags.fr/</loc>
+    <loc>/public/cont/tags.fr/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/</loc>
+    <loc>/public/</loc>
     <lastmod>2020-06-01T13:31:12+01:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/tags/documentation/</loc>
+    <loc>/public/tags/documentation/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/tags/</loc>
+    <loc>/public/tags/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/tags/tutorial/</loc>
+    <loc>/public/tags/tutorial/</loc>
     <lastmod>2018-11-29T08:41:44+01:00</lastmod>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/attachments/</loc>
+    <loc>/public/shortcodes/attachments/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/attachments.fr/</loc>
+    <loc>/public/shortcodes/attachments.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/button/</loc>
+    <loc>/public/shortcodes/button/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/button.fr/</loc>
+    <loc>/public/shortcodes/button.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/categories/</loc>
+    <loc>/public/categories/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/</loc>
+    <loc>/public/shortcodes/children/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/credits/</loc>
+    <loc>/public/credits/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/credits.fr/</loc>
+    <loc>/public/credits.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/expand/</loc>
+    <loc>/public/shortcodes/expand/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/expand.fr/</loc>
+    <loc>/public/shortcodes/expand.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/mermaid/</loc>
+    <loc>/public/shortcodes/mermaid/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/mermaid.fr/</loc>
+    <loc>/public/shortcodes/mermaid.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/notice/</loc>
+    <loc>/public/shortcodes/notice/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/notice.fr/</loc>
+    <loc>/public/shortcodes/notice.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-1/</loc>
+    <loc>/public/shortcodes/children/children-1/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-1/children-1-1/</loc>
+    <loc>/public/shortcodes/children/children-1/children-1-1/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
+    <loc>/public/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
+    <loc>/public/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
+    <loc>/public/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-2/</loc>
+    <loc>/public/shortcodes/children/children-2/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-3/</loc>
+    <loc>/public/shortcodes/children/children-3/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-4/</loc>
+    <loc>/public/shortcodes/children/children-4/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/test/</loc>
+    <loc>/public/shortcodes/children/test/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/test.fr/</loc>
+    <loc>/public/shortcodes/children/test.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-2/test3/</loc>
+    <loc>/public/shortcodes/children/children-2/test3/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/children/children-2/test3.fr/</loc>
+    <loc>/public/shortcodes/children/children-2/test3.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/showcase/</loc>
+    <loc>/public/showcase/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/siteparam/</loc>
+    <loc>/public/shortcodes/siteparam/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/siteparam.fr/</loc>
+    <loc>/public/shortcodes/siteparam.fr/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/shortcodes/tabs/</loc>
+    <loc>/public/shortcodes/tabs/</loc>
   </url><url>
-    <loc>https://smartworkz-kyriacos.github.io/smartworkz-learn/vitrine/</loc>
+    <loc>/public/vitrine/</loc>
   </url>
 </urlset>
